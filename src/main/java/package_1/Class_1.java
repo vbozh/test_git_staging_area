@@ -3,11 +3,11 @@ package package_1;
 public class Class_1 {
     public void foo1() {
 
-        //pewpew
+        //1
 
-        //963789
+        //2
 
-        //123
+        //3
     }
 }
 
